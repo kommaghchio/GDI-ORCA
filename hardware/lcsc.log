@@ -1,0 +1,353 @@
+
+----- 2026-11-02T22:56:28 -----
+[1/1] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C109322 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C109322
+       Symbol name : TPS63070RNMR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C109322
+       Footprint name: VQFN-15_L3.0-W2.5-P0.50-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\VQFN-15_L3.0-W2.5-P0.50-BL.kicad_mod
+[INFO] Created 3D model for ID: C109322
+       3D model name: VQFN-15_L3.0-W2.5-H0.9-P0.50-BL
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.step
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-02T22:59:56 -----
+[1/4] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C5185863 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C5185863
+       Symbol name : LMR51430XDDCR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C5185863
+       Footprint name: SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.kicad_mod
+[INFO] Created 3D model for ID: C5185863
+       3D model name: SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step
+[2/4] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C544362 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C544362
+       Symbol name : BQ25883RGER
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C544362
+       Footprint name: VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8.kicad_mod
+[INFO] Created 3D model for ID: C544362
+       3D model name: VFQFPN-24_L4.0-W4.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.step
+[3/4] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22459454 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C22459454
+       Symbol name : ICM-45686
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C22459454
+       Footprint name: LGA-14_L3.0-W2.5-P0.50-TL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\LGA-14_L3.0-W2.5-P0.50-TL.kicad_mod
+[INFO] Created 3D model for ID: C22459454
+       3D model name: LGA-14_L2.5-W3.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.step
+[4/4] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22391138 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C22391138
+       Symbol name : BMP580
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C22391138
+       Footprint name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.kicad_mod
+[INFO] Created 3D model for ID: C22391138
+       3D model name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.step
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-03T20:59:51 -----
+[1/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C2765186 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C2765186
+       Symbol name : TYPE-C 16PIN 2MD
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C2765186
+       Footprint name: USB-C-SMD_TYPE-C-16PIN-2MD-073
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\USB-C-SMD_TYPE-C-16PIN-2MD-073.kicad_mod
+[INFO] Created 3D model for ID: C2765186
+       3D model name: USB-C-SMD_TYPE-C-6PIN-2MD-073
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\USB-C-SMD_TYPE-C-6PIN-2MD-073.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\USB-C-SMD_TYPE-C-6PIN-2MD-073.step
+[2/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C49441431 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C49441431
+       Symbol name : JBL-102010052
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C49441431
+       Footprint name: TF-CARD-SMD_JBL-102010052
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\TF-CARD-SMD_JBL-102010052.kicad_mod
+[WARNING] No 3D model available for this component
+[WARNING] No 3D model available for ID: C49441431
+[3/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C109322 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[WARNING] This id is already in C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad symbol for ID : C109322
+       Symbol name : TPS63070RNMR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C109322
+       Footprint name: VQFN-15_L3.0-W2.5-P0.50-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\VQFN-15_L3.0-W2.5-P0.50-BL.kicad_mod
+[INFO] Created 3D model for ID: C109322
+       3D model name: VQFN-15_L3.0-W2.5-H0.9-P0.50-BL
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.step
+[4/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C5185863 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[WARNING] This id is already in C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad symbol for ID : C5185863
+       Symbol name : LMR51430XDDCR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C5185863
+       Footprint name: SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.kicad_mod
+[INFO] Created 3D model for ID: C5185863
+       3D model name: SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step
+[5/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C544362 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[WARNING] This id is already in C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad symbol for ID : C544362
+       Symbol name : BQ25883RGER
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C544362
+       Footprint name: VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8.kicad_mod
+[INFO] Created 3D model for ID: C544362
+       3D model name: VFQFPN-24_L4.0-W4.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.step
+[6/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C118207 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C118207
+       Symbol name : STM32F722RET6
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C118207
+       Footprint name: LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL.kicad_mod
+[INFO] Created 3D model for ID: C118207
+       3D model name: LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.step
+[7/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22459454 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[WARNING] This id is already in C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad symbol for ID : C22459454
+       Symbol name : ICM-45686
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C22459454
+       Footprint name: LGA-14_L3.0-W2.5-P0.50-TL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\LGA-14_L3.0-W2.5-P0.50-TL.kicad_mod
+[INFO] Created 3D model for ID: C22459454
+       3D model name: LGA-14_L2.5-W3.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.step
+[8/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22391138 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[WARNING] This id is already in C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad symbol for ID : C22391138
+       Symbol name : BMP580
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.kicad_sym
+[INFO] Created Kicad footprint for ID: C22391138
+       Footprint name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.pretty\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.kicad_mod
+[INFO] Created 3D model for ID: C22391138
+       3D model name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc\easyeda2kicad.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.step
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-03T21:03:40 -----
+[1/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C2765186 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C2765186
+       Symbol name : TYPE-C 16PIN 2MD
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C2765186
+       Footprint name: USB-C-SMD_TYPE-C-16PIN-2MD-073
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\USB-C-SMD_TYPE-C-16PIN-2MD-073.kicad_mod
+[INFO] Created 3D model for ID: C2765186
+       3D model name: USB-C-SMD_TYPE-C-6PIN-2MD-073
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\USB-C-SMD_TYPE-C-6PIN-2MD-073.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\USB-C-SMD_TYPE-C-6PIN-2MD-073.step
+[2/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C49441431 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C49441431
+       Symbol name : JBL-102010052
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C49441431
+       Footprint name: TF-CARD-SMD_JBL-102010052
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\TF-CARD-SMD_JBL-102010052.kicad_mod
+[WARNING] No 3D model available for this component
+[WARNING] No 3D model available for ID: C49441431
+[3/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C109322 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C109322
+       Symbol name : TPS63070RNMR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C109322
+       Footprint name: VQFN-15_L3.0-W2.5-P0.50-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\VQFN-15_L3.0-W2.5-P0.50-BL.kicad_mod
+[INFO] Created 3D model for ID: C109322
+       3D model name: VQFN-15_L3.0-W2.5-H0.9-P0.50-BL
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.step
+[4/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C5185863 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C5185863
+       Symbol name : LMR51430XDDCR
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C5185863
+       Footprint name: SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL.kicad_mod
+[INFO] Created 3D model for ID: C5185863
+       3D model name: SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step
+[5/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C544362 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C544362
+       Symbol name : BQ25883RGER
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C544362
+       Footprint name: VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\VFQFPN-24_L4.0-W4.0-P0.50-BL-EP2.8.kicad_mod
+[INFO] Created 3D model for ID: C544362
+       3D model name: VFQFPN-24_L4.0-W4.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\VFQFPN-24_L4.0-W4.0-H0.9-P0.50.step
+[6/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C118207 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C118207
+       Symbol name : STM32F722RET6
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C118207
+       Footprint name: LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL.kicad_mod
+[INFO] Created 3D model for ID: C118207
+       3D model name: LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LQFP-64_L10.0-W10.0-H1.4-LS12.0-P0.50.step
+[7/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22459454 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C22459454
+       Symbol name : ICM-45686
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C22459454
+       Footprint name: LGA-14_L3.0-W2.5-P0.50-TL
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\LGA-14_L3.0-W2.5-P0.50-TL.kicad_mod
+[INFO] Created 3D model for ID: C22459454
+       3D model name: LGA-14_L2.5-W3.0-H0.9-P0.50
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LGA-14_L2.5-W3.0-H0.9-P0.50.step
+[8/8] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C22391138 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C22391138
+       Symbol name : BMP580
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C22391138
+       Footprint name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.kicad_mod
+[INFO] Created 3D model for ID: C22391138
+       3D model name: LGA-10_L2.0-W2.0-P0.50-TL_BMP580
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\LGA-10_L2.0-W2.0-P0.50-TL_BMP580.step
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-07T20:16:56 -----
+[1/1] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C2681587 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C2681587
+       Symbol name : 5.8 ZSGT
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C2681587
+       Footprint name: SW-TH_5.8ZSGT
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\SW-TH_5.8ZSGT.kicad_mod
+[INFO] Created 3D model for ID: C2681587
+       3D model name: SW-TH_5.8ZSGT
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\SW-TH_5.8ZSGT.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\SW-TH_5.8ZSGT.step
+Could not rename footprint to 5.8-ZSGT: name not found in easyeda2kicad output.
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-07T20:25:15 -----
+[1/1] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C7417180 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C7417180
+       Symbol name : XGL4020-152MEC
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C7417180
+       Footprint name: IND-SMD_L4.0-W4.0_XEL4020
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\IND-SMD_L4.0-W4.0_XEL4020.kicad_mod
+[INFO] Created 3D model for ID: C7417180
+       3D model name: IND-SMD_L4.0-W4.0_XEL4020
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\IND-SMD_L4.0-W4.0_XEL4020.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\IND-SMD_L4.0-W4.0_XEL4020.step
+Renamed footprint IND-SMD_L4.0-W4.0_XEL4020 -> 1.5uH
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-07T20:27:02 -----
+[1/1] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C380178 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C380178
+       Symbol name : MS0630-5R6M
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C380178
+       Footprint name: IND-SMD_L6.6-W6.6
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\IND-SMD_L6.6-W6.6.kicad_mod
+[INFO] Created 3D model for ID: C380178
+       3D model name: IND-SMD_L6.6-W6.6
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\IND-SMD_L6.6-W6.6.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\IND-SMD_L6.6-W6.6.step
+Renamed footprint IND-SMD_L6.6-W6.6 -> 5.6uH
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
+
+----- 2026-11-07T20:50:51 -----
+[1/1] Running: C:\Users\kommaghchio\AppData\Local\Python\pythoncore-3.14-64\python.exe -m easyeda2kicad --full --overwrite --lcsc_id=C1857257 --output=C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc
+-- easyeda2kicad.py v1.0.1 --
+[INFO] Created Kicad symbol for ID : C1857257
+       Symbol name : MC2520Z25.0000C19XSH
+       Library path : C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.kicad_sym
+[INFO] Created Kicad footprint for ID: C1857257
+       Footprint name: OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD
+       Footprint path: C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.pretty\OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD.kicad_mod
+[INFO] Created 3D model for ID: C1857257
+       3D model name: OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD
+       3D model path (wrl): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD.wrl
+       3D model path (step): C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lib\lcsc.3dshapes\OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD.step
+Renamed footprint OSC-SMD_4P-L2.5-W2.0-BL_ABRACON_ASTMLPD -> KC2520Z
+All commands completed.
+
+Output was also saved to C:\Users\kommaghchio\Documents\GitHub\GDI-ORCA\hardware\lcsc.log
+Press Enter to close...
